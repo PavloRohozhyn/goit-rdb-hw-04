@@ -37,9 +37,9 @@ f) Таблиця `"borrowed_books"`:
 - `borrow_date` (`DATE`)
 - `return_date` (`DATE`)
 
-#### Скрипт завдання 1 [script1.sql](./script.sql)
+#### Скрипт завдання 1 ([script1.sql](./script1.sql))
 
-#### WorkBanch
+#### Workbanch
 
 ![task1](./imgs/task1.png)
 
@@ -49,9 +49,9 @@ f) Таблиця `"borrowed_books"`:
 
 **2. Заповніть таблиці простими видуманими тестовими даними. Достатньо одного-двох рядків у кожну таблицю.**
 
-#### Скрипт завдання 2 [script2.sql](./script.sql)
+#### Скрипт завдання 2 ([script2.sql](./script2.sql))
 
-#### WorkBanch
+#### Workbanch
 
 ![task2](./imgs/task2.png)
 
@@ -60,6 +60,12 @@ f) Таблиця `"borrowed_books"`:
 ![task2-1](./imgs/task2-1.png)
 
 **3. Перейдіть до бази даних, з якою працювали у темі 3. Напишіть запит за допомогою операторів `FROM` та `INNER JOIN`, що об’єднує всі таблиці даних, які ми завантажили з файлів: `order_details`, `orders`, `customers`, `products`, `categories`,`employees`, `shippers`, `suppliers`. Для цього ви маєте знайти спільні ключі. Перевірте правильність виконання запиту.**
+
+#### Скрипт завдання 3 ([script3.sql](./script3.sql))
+
+#### Workbanch
+
+![task3](./imgs/task3.png)
 
 **4. Виконайте запити, перелічені нижче.**
 
